@@ -17,3 +17,6 @@ Clock Configuration : Maximum Speed
 
 ![image](https://user-images.githubusercontent.com/74974827/154914401-7e5c3db1-602c-4492-a9fa-05ca73a39e85.png)
 
+FREERTOS Configuration :
+
+![image](https://user-images.githubusercontent.com/74974827/154915411-c9905a85-2b27-4598-bd44-bdc353f506ad.png)
