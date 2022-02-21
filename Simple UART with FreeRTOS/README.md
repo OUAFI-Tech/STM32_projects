@@ -1,7 +1,7 @@
 ## Type of the Board :
 STM32F429IDISCOVERY
 
-![image](https://user-images.githubusercontent.com/74974827/154913378-0d680673-9b18-467c-962e-e8e27c084587.png)
+![image](https://user-images.githubusercontent.com/74974827/154914507-35e23784-97d0-4bc9-bb2e-82d0fcd5b440.png)
 
 ## CubeMX Configuration :
 Initialization pins :
