@@ -3,4 +3,17 @@ STM32F429IDISCOVERY
 
 ![image](https://user-images.githubusercontent.com/74974827/154913378-0d680673-9b18-467c-962e-e8e27c084587.png)
 
-## Type of the Board :
+## CubeMX Configuration :
+Initialization pins :
+
+![image](https://user-images.githubusercontent.com/74974827/154913908-e520866e-749b-46d2-9520-ea9f468fd1c7.png)
+
+Uart Parameters :
+
+![image](https://user-images.githubusercontent.com/74974827/154914148-6261bc2c-ba17-4cd5-8965-43c341d85998.png)
+
+
+Clock Configuration : Maximum Speed 
+
+![image](https://user-images.githubusercontent.com/74974827/154914401-7e5c3db1-602c-4492-a9fa-05ca73a39e85.png)
+
